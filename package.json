@@ -1,6 +1,6 @@
 {
   "name": "@timondev/azure-jwt-verify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Verify jwt token issued from azure active directory b2c service ",
   "main": "index.js",
   "authors": [
