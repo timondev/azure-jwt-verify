@@ -1,0 +1,17 @@
+{
+  "name": "@timondev/azure-jwt-verify",
+  "version": "1.0.0",
+  "description": "Verify jwt token issued from azure active directory b2c service ",
+  "main": "index.js",
+  "authors": [
+    "timondev",
+    "99xtechnology.com"
+  ],
+  "license": "Apache-2.0",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "joi": "^17.9.1",
+    "jsonwebtoken": "^9.0.0",
+    "rsa-pem-from-mod-exp": "^0.8.5"
+  }
+}
